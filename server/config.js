@@ -1,8 +1,8 @@
 module.exports = {
 	// FusionAuth info (copied from the FusionAuth admin panel)
-	clientID: 'e9fdb985-9173-4e01-9d73-ac2d60d1dc8e',
-	clientSecret: 'super-secret-secret-that-should-be-regenerated-for-production',
-	fusionAuthBaseUrl: 'http://localhost:9011',
+	clientID: '6516eddc-f3ee-49dd-ac8d-ff536dcf2ab9',
+	clientSecret: 'OcEQsiqXTSZskfxc2cFx0TKCCIzeWbBMOi8olTy94QE',
+	fusionAuthBaseUrl: 'https://fsmk-uat.fusionauth.io',
 
 	// port this server runs on
 	serverPort: 9000

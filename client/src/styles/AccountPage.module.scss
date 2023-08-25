@@ -71,7 +71,22 @@
 .logout {
     padding: 7px 13px;
     margin: 0px auto 40px;
-    display: block;
+    background-color: transparent;
+    color: #083b94;
+    border-radius: 3px;
+    border: solid 1px #083b94;
+    font-family: var(--font-stack);
+    font-size: 12px;
+    text-align: center;
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.refresh {
+    padding: 7px 13px;
+    margin: 0px auto 40px;
+    display: inline-block;
     background-color: transparent;
     color: #083b94;
     border-radius: 3px;
